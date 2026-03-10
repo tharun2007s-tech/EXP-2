@@ -72,4 +72,5 @@ Load Characteristics:
  <img width="868" height="831" alt="Screenshot 2025-12-09 135703" src="https://github.com/user-attachments/assets/30703d0b-2596-4d12-8e69-3cb4675654a6" />
 
 Result:
+
 The load test on separately excited generators and to obtain the characteristics was verified.
